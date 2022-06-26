@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorythems", "SortingAlgorythems\SortingAlgorythems.csproj", "{4DF0D060-F07D-4162-AAF7-2FFF5E653BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF0D060-F07D-4162-AAF7-2FFF5E653BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF0D060-F07D-4162-AAF7-2FFF5E653BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF0D060-F07D-4162-AAF7-2FFF5E653BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF0D060-F07D-4162-AAF7-2FFF5E653BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A241DB7-8944-406F-8B1A-27FBEAD6B43A}
+	EndGlobalSection
+EndGlobal
