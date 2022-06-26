@@ -4,9 +4,13 @@ namespace SortingAlgorythems
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            var selectionSort = new SelectionSort();
+            var bubbleSort = new BubbleSort();
+
+            selectionSort.Execution();
+            bubbleSort.Execution();
         }
     }
 }
